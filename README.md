@@ -7,3 +7,7 @@ But from 1st April 2024, it was changed to ydata-profling.
 pip install ydata-profiling
 ## use in python script
 from ydata_profiling import ProfileReport
+## Demo with titanic data set Kaggle
+I will use this package to demo how it works, you can download from kaggle in titanic competition
+https://www.kaggle.com/competitions/titanic
+End
